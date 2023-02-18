@@ -11,6 +11,7 @@
     <modules>
         <module>im_common</module>
         <module>im_service</module>
+        <module>io_study</module>
     </modules>
 
     <properties>
