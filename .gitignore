@@ -25,3 +25,5 @@ hs_err_pid*
 /im_common/im_common.iml
 /im_service/im_service.iml
 /io_study/io_study.iml
+/im_tcp/im_tcp.iml
+/im_codec/im_codec.iml
